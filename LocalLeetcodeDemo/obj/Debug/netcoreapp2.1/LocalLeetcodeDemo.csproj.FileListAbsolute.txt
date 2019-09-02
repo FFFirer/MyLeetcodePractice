@@ -1,0 +1,11 @@
+D:\Watt\repos\LocalLeetcodeDemos\LocalLeetcodeDemo\bin\Debug\netcoreapp2.1\LocalLeetcodeDemo.deps.json
+D:\Watt\repos\LocalLeetcodeDemos\LocalLeetcodeDemo\bin\Debug\netcoreapp2.1\LocalLeetcodeDemo.runtimeconfig.json
+D:\Watt\repos\LocalLeetcodeDemos\LocalLeetcodeDemo\bin\Debug\netcoreapp2.1\LocalLeetcodeDemo.runtimeconfig.dev.json
+D:\Watt\repos\LocalLeetcodeDemos\LocalLeetcodeDemo\bin\Debug\netcoreapp2.1\LocalLeetcodeDemo.dll
+D:\Watt\repos\LocalLeetcodeDemos\LocalLeetcodeDemo\bin\Debug\netcoreapp2.1\LocalLeetcodeDemo.pdb
+D:\Watt\repos\LocalLeetcodeDemos\LocalLeetcodeDemo\obj\Debug\netcoreapp2.1\LocalLeetcodeDemo.csprojAssemblyReference.cache
+D:\Watt\repos\LocalLeetcodeDemos\LocalLeetcodeDemo\obj\Debug\netcoreapp2.1\LocalLeetcodeDemo.csproj.CoreCompileInputs.cache
+D:\Watt\repos\LocalLeetcodeDemos\LocalLeetcodeDemo\obj\Debug\netcoreapp2.1\LocalLeetcodeDemo.AssemblyInfoInputs.cache
+D:\Watt\repos\LocalLeetcodeDemos\LocalLeetcodeDemo\obj\Debug\netcoreapp2.1\LocalLeetcodeDemo.AssemblyInfo.cs
+D:\Watt\repos\LocalLeetcodeDemos\LocalLeetcodeDemo\obj\Debug\netcoreapp2.1\LocalLeetcodeDemo.dll
+D:\Watt\repos\LocalLeetcodeDemos\LocalLeetcodeDemo\obj\Debug\netcoreapp2.1\LocalLeetcodeDemo.pdb
