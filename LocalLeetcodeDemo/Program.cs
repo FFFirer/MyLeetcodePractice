@@ -6,8 +6,9 @@ namespace LocalLeetcodeDemo
     {
         static void Main(string[] args)
         {
+            IProblem Problem = new Problem1();
             // IProblem Problem = new Problem3();
-            IProblem Problem = new Problem7();
+            // IProblem Problem = new Problem7();
             Problem.Start();
             Console.Read();
         }
